@@ -48,32 +48,32 @@ export default {
 
       categoryList: [
         {
-          imgUrl: "../images/category/01.jpg",
+          imgUrl: "/images/category/01.jpg",
           imgAlt: "category rajibraj91 rajibraj",
           title: "DSLR Camera",
         },
         {
-          imgUrl: "../images/category/02.jpg",
+          imgUrl: "/images/category/02.jpg",
           imgAlt: "category rajibraj91 rajibraj",
           title: "Shoes",
         },
         {
-          imgUrl: "../images/category/03.jpg",
+          imgUrl: "/images/category/03.jpg",
           imgAlt: "category rajibraj91 rajibraj",
           title: "Photography",
         },
         {
-          imgUrl: "../images/category/04.jpg",
+          imgUrl: "/images/category/04.jpg",
           imgAlt: "category rajibraj91 rajibraj",
           title: "Formal Dress",
         },
         {
-          imgUrl: "../images/category/05.jpg",
+          imgUrl: "/images/category/05.jpg",
           imgAlt: "category rajibraj91 rajibraj",
           title: "Colorful Bags",
         },
         {
-          imgUrl: "../images/category/06.jpg",
+          imgUrl: "/images/category/06.jpg",
           imgAlt: "category rajibraj91 rajibraj",
           title: "Home Decor",
         },
