@@ -42,7 +42,7 @@
                 <div class="contact-wrapper">
                   <div v-for="(contact, index) in contactList" :key="index" class='contact-item'>
                     <div class="contact-thumb">
-                      <img :src="contact.imgUrl" :alt="contact.imgAlt" />
+                      <img src="contact.imgUrl" alt="contact.imgAlt" />
                     </div>
                     <div class="contact-content">
                       <h6 class='title'>{{ contact.title }}</h6>
