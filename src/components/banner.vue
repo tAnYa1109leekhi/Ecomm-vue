@@ -17,7 +17,7 @@
               <router-link to="/shop" class="category-item">
                 <div class="category-inner">
                   <div >
-                    <img  :src="category.imgUrl" :alt="category.imgAlt"  class="images"/>
+                    <img :src="category.imgUrl" :alt="category.imgAlt"  class="images" loading ="lazy"/>
                   </div>
                   <!-- Content -->
                   <div class="category-content">
