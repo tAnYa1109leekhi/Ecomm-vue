@@ -44,7 +44,7 @@
        
         categoryList: [
           {
-            imgUrl: "public/images/category/01.jpg",
+            imgUrl: "../public/images/category/01.jpg",
             imgAlt: "category rajibraj91 rajibraj",
             
             title: "DSLR Camera",

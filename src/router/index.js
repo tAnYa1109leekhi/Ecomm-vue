@@ -10,7 +10,7 @@ import Category from '@/Productpage/category.vue';
 
 const routes = [
   {
-    path: '/home',
+    path: '/', 
     component: HomeView
   },
   {
